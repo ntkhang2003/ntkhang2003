@@ -2,9 +2,9 @@
 #### My website: https://ntkhang2003.github.io/khangcv/ 
 ![My website: https://ntkhang2003.github.io/khangcv/ ](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.2031193972.1643673600)
 
-I am a freshman at University of Information Technology, majoring in Computer Science
-I have a deep passion for programming as well as a change-ready mindset to learn new technologies
-I'm a member of CS-AI UIT club
+- I am a freshman at University of Information Technology, majoring in Computer Science
+- I have a deep passion for programming as well as a change-ready mindset to learn new technologies
+- I'm a member of CS-AI UIT club
 
 Skills: C++ / PYTHON / HTML / CSS
 
