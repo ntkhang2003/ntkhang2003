@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 70%" />
 </div>  
   
 
@@ -54,22 +54,3 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
