@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Khang, a freshman at University of Information Technology, majoring in Computer Science</div>  
+### <div align="center">I'm Khang, a student at University of Information Technology, majoring in Computer Science</div>  
   
 
 - 🔭 I’m currently working on [CS-UIT AI CLUB](https://aiclub.uit.edu.vn/)  
