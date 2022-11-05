@@ -3,7 +3,6 @@
 </div>  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Make+It+Right" alt="Typing SVG" /></a>
-
 ### <div align="center">I'm Khang, a student at University of Information Technology, majoring in Computer Science</div>  
   
 
