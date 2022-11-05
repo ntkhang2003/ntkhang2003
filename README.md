@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 70%" />
 </div>  
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76EEF&width=435&lines=Make+It+Right)](https://git.io/typing-svg)  
 
 ### <div align="center">I'm Khang, a student at University of Information Technology, majoring in Computer Science</div>  
   
