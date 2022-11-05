@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 70%" />
 </div>  
-
+<div></div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76EEF&width=435&lines=Make+It+Right" alt="Typing SVG" /></a>
-/<div>
+</div>
 
 ### <div align="center">I'm Khang, a student at University of Information Technology, majoring in Computer Science</div>  
   
